@@ -13,6 +13,7 @@
 		20C32BD128D830A800F37CDD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20C32BD028D830A800F37CDD /* Preview Assets.xcassets */; };
 		20C32BD828D94B8100F37CDD /* BasicMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C32BD728D94B8100F37CDD /* BasicMapView.swift */; };
 		20C32BDA28D986F500F37CDD /* MapView+MKMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C32BD928D986F500F37CDD /* MapView+MKMapView.swift */; };
+		20C32BDC28D9935A00F37CDD /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 20C32BDB28D9935A00F37CDD /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		20C32BD028D830A800F37CDD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		20C32BD728D94B8100F37CDD /* BasicMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicMapView.swift; sourceTree = "<group>"; };
 		20C32BD928D986F500F37CDD /* MapView+MKMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MapView+MKMapView.swift"; sourceTree = "<group>"; };
+		20C32BDB28D9935A00F37CDD /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 		20C32BBD28D830A700F37CDD = {
 			isa = PBXGroup;
 			children = (
+				20C32BDB28D9935A00F37CDD /* .gitignore */,
 				20C32BC828D830A700F37CDD /* Mapview */,
 				20C32BC728D830A700F37CDD /* Products */,
 			);
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20C32BD128D830A800F37CDD /* Preview Assets.xcassets in Resources */,
+				20C32BDC28D9935A00F37CDD /* .gitignore in Resources */,
 				20C32BCE28D830A800F37CDD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
